@@ -70,6 +70,11 @@ directory.
 
 > Question: How could we make sure that we moved?
 
+>> Answer: Check the current directory.
+'''bash
+pwd
+'''
+
 Let's get a few special things out of the way as well for command line. When
 we talk about folders, we don't always want to move "into" the next folder
 down. Sometimes we want to move back up a folder. To do that we can do:
