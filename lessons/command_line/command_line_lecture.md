@@ -200,6 +200,7 @@ ls -lh
 ```
 
 > What changed?
+>> Now the size uses unit suffixes (B, KB, MG etc)
 
 If instead copying we just want to change the name of a file, we can do:
 
